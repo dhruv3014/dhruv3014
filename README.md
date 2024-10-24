@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dhru Sanghani
+- 👋 Hi, I’m Dhruv Sanghani
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning DSA,MERN stack
 - 💞️ I’m looking to collaborate on Web Development Projects
